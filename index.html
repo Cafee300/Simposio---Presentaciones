@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Biblioteca IHCAFÉ">
+    <meta name="theme-color" content="#2E7D32">
+    <meta name="msapplication-TileColor" content="#2E7D32">
+    <meta name="msapplication-navbutton-color" content="#2E7D32">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="HandheldFriendly" content="true">
+
+    <meta name="MobileOptimized" content="320">
+
+    <title>Biblioteca de Presentaciones - IHCAFÉ</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo-container">
+                <div class="logo-box">
+                    <img src="Imagenes/IHCAFÉ.png" alt="Logo IHCAFÉ" class="logo" id="logo" onerror="this.style.display='none'">
+                </div>
+                <div>
+                    <h1>Biblioteca de Presentaciones</h1>
+                    <p>Instituto Hondureño del Café - IHCAFÉ</p>
+                </div>
+            </div>
+        </header>
+        
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Buscar presentación..." />
+        </div>
+        
+        <div class="pdf-grid" id="pdfGrid">
+            <!-- Los PDFs se cargarán dinámicamente aquí -->
+        </div>
+        
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
