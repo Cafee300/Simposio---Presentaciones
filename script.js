@@ -8,80 +8,80 @@ const pdfFiles = [
     },
     {
         filename: "10. PRESENTACIÓN XYLOSANDRUS MORIGERUS lSEMINARIO DE INVESTIGACIÓN Y TRANSFERENCIA EN CAFÉ.pdf",
-        title: "Xylosandrus Morigerus - Seminario de Investigación",
-        description: "Investigación y transferencia en café",
+        title: "Primer Reporte de Xylosandrus morigerus blandford",
+        description: "En coffea arabica L en Honduras",
         path: "Archivos/10. PRESENTACIÓN XYLOSANDRUS MORIGERUS lSEMINARIO DE INVESTIGACIÓN Y TRANSFERENCIA EN CAFÉ.pdf"
     },
     {
         filename: "11. Experiencia piloto con ofertas de servicio vinculados a ERSDP.pdf",
-        title: "Experiencia piloto ERSDP",
-        description: "Ofertas de servicio vinculados a ERSDP",
+        title: "Experiencia piloto con las ofertas de servicios vinculados ERSDP",
+        description: "Su incidencia en producción del café",
         path: "Archivos/11. Experiencia piloto con ofertas de servicio vinculados a ERSDP.pdf"
     },
     {
         filename: "12. Evaluación de enmiendas calcáreas en diferentes formulaciones.pdf",
-        title: "Evaluación de enmiendas calcáreas",
-        description: "Diferentes formulaciones de enmiendas",
+        title: "Evaluación de enmiendas calcáreas en diferentes formulaciones",
+        description: "Para la corrección de acidez en suelos cafetaleros",
         path: "Archivos/12. Evaluación de enmiendas calcáreas en diferentes formulaciones.pdf"
     },
     {
         filename: "13. COMPORTAMIENTO DE LA DINÁMICA DE ABSORCIÓN y LA EFICIENCIA DE NUTRIENTES EN LAS ETAPAS FENOLOGICAS DE CAFETALES.pdf",
-        title: "Dinámica de absorción y eficiencia de nutrientes",
-        description: "Etapas fenológicas de cafetales",
+        title: "Comportamiento de la Dinámica de Absorción y Eficiencia de Nutrientes",
+        description: "Nutrientes en las etapas fenologicas de cafetales",
         path: "Archivos/13. COMPORTAMIENTO DE LA DINÁMICA DE ABSORCIÓN y LA EFICIENCIA DE NUTRIENTES EN LAS ETAPAS FENOLOGICAS DE CAFETALES.pdf"
     },
     {
         filename: "14. Evaluación de las Frecuencias y Formas de Aplicación.pdf",
-        title: "Frecuencias y formas de aplicación",
-        description: "Evaluación de métodos de aplicación",
+        title: "Evaluación de las frecuencias y formas de aplicación",
+        description: "De los fertilizantes y su incidencia sobre la producción",
         path: "Archivos/14. Evaluación de las Frecuencias y Formas de Aplicación.pdf"
     },
     {
         filename: "15. Rendimientos cosecha 24 25.pdf",
-        title: "Rendimientos cosecha 2024-2025",
-        description: "Análisis de rendimientos de cosecha",
+        title: "Factores de conversión en la producción y comercialización de Café",
+        description: "Cosecha 2024-2025",
         path: "Archivos/15. Rendimientos cosecha 24 25.pdf"
     },
     {
         filename: "16. EFECTO SOBRE EL CONTENIDO DE COMPUESTOS QUÍMICOS EN TRES VARIEDADES.pdf",
-        title: "Efecto en compuestos químicos",
-        description: "Tres variedades de café analizadas",
+        title: "Efecto sobre el contenido de compuestos químicos en 3 variedades del café",
+        description: "En 2 procesos de beneficiado y su influencia en la calidad de taza",
         path: "Archivos/16. EFECTO SOBRE EL CONTENIDO DE COMPUESTOS QUÍMICOS EN TRES VARIEDADES.pdf"
     },
     {
         filename: "17. Dureza del Agua PPT Semunario Nacional sept 2025 PINECO.pdf",
-        title: "Dureza del Agua - Seminario Nacional",
-        description: "Seminario Nacional PINECO Septiembre 2025",
+        title: "Dureza del Agua para la catación de café",
+        description: "Su relación con el perfil obtenido",
         path: "Archivos/17. Dureza del Agua PPT Semunario Nacional sept 2025 PINECO.pdf"
     },
     {
         filename: "18. PERSPECTIVAS DEL MERCADO ANTE EUDR - SEMINARIO DE INVESTIGACIÓN Y TRANSFERENCIA EN CAFÉ 09.2025 (2).pdf",
-        title: "Perspectivas del mercado ante EUDR",
-        description: "Seminario de Investigación y Transferencia en Café",
+        title: "Perspectivas del mercado Europeo ante las regulaciones del reglamento y su impacto",
+        description: "En las relaciones comerciales",
         path: "Archivos/18. PERSPECTIVAS DEL MERCADO ANTE EUDR - SEMINARIO DE INVESTIGACIÓN Y TRANSFERENCIA EN CAFÉ 09.2025 (2).pdf"
     },
     {
         filename: "2. Avances y perspectiva ERSDP.pdf",
-        title: "Avances y perspectiva ERSDP",
+        title: "Renovar sin dejar de producir, avances y perspectivas al 2027",
         description: "Estado actual y perspectivas futuras",
         path: "Archivos/2. Avances y perspectiva ERSDP.pdf"
     },
     {
         filename: "3. Evaluacion de la cosecha semimecanizada en Honduras. (1).pdf",
-        title: "Evaluación de cosecha semimecanizada",
-        description: "Análisis en Honduras",
+        title: "Evaluación de cosecha semimecanizada como opción ante la crisis",
+        description: "De escases de mano de obra en Honduras",
         path: "Archivos/3. Evaluacion de la cosecha semimecanizada en Honduras. (1).pdf"
     },
     {
         filename: "4. DETERMINACIÓN DE LA CALIDAD EN LLENADO DE FRUTO Y DISTURBIOS FISIOLÓGICOS.pdf",
-        title: "Calidad en llenado de fruto",
-        description: "Disturbios fisiológicos en el desarrollo",
+        title: "Determinación de la calidad en llenado de fruto y disturbios fisiológicos",
+        description: "En frutos asociados a la sequía y bronca del café cosecha 2024-2025",
         path: "Archivos/4. DETERMINACIÓN DE LA CALIDAD EN LLENADO DE FRUTO Y DISTURBIOS FISIOLÓGICOS.pdf"
     },
     {
         filename: "5. Evaluacion y Selección de variedades Brasileñas altamente productivas.pdf",
-        title: "Variedades brasileñas productivas",
-        description: "Evaluación y selección de variedades",
+        title: "Selección de Variedades brasileñas tolerantes a sequía",
+        description: "Resistentes a roya y altamente productivas en corredor seco",
         path: "Archivos/5. Evaluacion y Selección de variedades Brasileñas altamente productivas.pdf"
     },
     {
@@ -92,15 +92,15 @@ const pdfFiles = [
     },
     {
         filename: "7. Desarrollo y Selección de Hìbridos F1 altamente productivos y resistentes a roya del café_.pdf",
-        title: "Híbridos F1 resistentes a roya",
-        description: "Desarrollo y selección de híbridos",
+        title: "Desarrollo, Evaluación y Selección de Híbridos F1 seleccionados",
+        description: "Por resistencia a roya y productividad",
         path: "Archivos/7. Desarrollo y Selección de Hìbridos F1 altamente productivos y resistentes a roya del café_.pdf"
     },
     
     {
         filename: "8. DETERMINACIÓN DE RESISTENCIA GENÉTICA A LA ROYA DEL CAFÉ VARIEDADES PROMISORIAS DE HONDURAS Y LA REGIÓN..pdf",
-        title: "Resistencia genética a la roya",
-        description: "Variedades promisorias de Honduras y la región",
+        title: "Determinación de resistencia genética a la roya del café",
+        description: "Variedades promisorias para Honduras y la región",
         path: "Archivos/8. DETERMINACIÓN DE RESISTENCIA GENÉTICA A LA ROYA DEL CAFÉ VARIEDADES PROMISORIAS DE HONDURAS Y LA REGIÓN..pdf"
     },
     {
