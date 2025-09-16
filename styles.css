@@ -743,8 +743,8 @@ input[type="text"], input[type="search"], input[type="email"], input[type="tel"]
 /* Optimización para modo oscuro en móviles */
 @media (prefers-color-scheme: dark) {
     .logo-box {
-        background: rgba(0, 0, 0, 0.8);
-        border-color: #4CAF50;
+        background: #ffffff;
+        border-color: #E8F5E8;
     }
 }
 
